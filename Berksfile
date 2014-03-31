@@ -1,3 +1,3 @@
 site :opscode
 
-cookbook 'lvm'
+cookbook 'lvm', '= 1.0.8'
